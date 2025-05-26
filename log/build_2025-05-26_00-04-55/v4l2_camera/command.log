@@ -1,4 +1,0 @@
-Invoking command in '/home/vf/Documents/ws_yolov5/build/v4l2_camera': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/vf/Documents/ws_yolov5/build/v4l2_camera -- -j12 -l12
-Invoked command in '/home/vf/Documents/ws_yolov5/build/v4l2_camera' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --build /home/vf/Documents/ws_yolov5/build/v4l2_camera -- -j12 -l12
-Invoking command in '/home/vf/Documents/ws_yolov5/build/v4l2_camera': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/vf/Documents/ws_yolov5/build/v4l2_camera
-Invoked command in '/home/vf/Documents/ws_yolov5/build/v4l2_camera' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake --install /home/vf/Documents/ws_yolov5/build/v4l2_camera
