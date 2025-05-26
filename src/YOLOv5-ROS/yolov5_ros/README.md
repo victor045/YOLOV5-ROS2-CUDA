@@ -107,7 +107,7 @@ Make sure to:
 - Run:
 
 ```bash
-ros2 run yolov5_ros yolov5_node
+ros2 run yolov5_ros yolov5_ros
 ```
 
 ---
