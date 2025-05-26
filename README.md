@@ -122,7 +122,7 @@ ros2 run rqt_image_view rqt_image_view
 
 Select topic:
 ```
-/yolov5/image_raw
+/yolo/image_result
 ```
 
 ---
@@ -161,6 +161,6 @@ Pull requests and bug reports welcome. Please create an issue first before propo
 
 ## 📧 Contact
 
-Maintainer: YOUR NAME  
-GitHub: [https://github.com/YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+Maintainer: Victor Perez
+GitHub: [https://github.com/victor045](https://github.com/victor045)
 
