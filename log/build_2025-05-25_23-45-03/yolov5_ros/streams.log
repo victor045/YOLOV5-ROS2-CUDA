@@ -1,0 +1,26 @@
+[0.827s] Invoking command in '/home/vf/Documents/ws_yolov5/build/yolov5_ros': CMAKE_PREFIX_PATH=/home/vf/Documents/ws_yolov5/install/bboxes_ex_msgs:/home/vf/Documents/ws_yolov5/install/v4l2_camera:/home/vf/Documents/ws_yolov5/install/usb_cam LD_LIBRARY_PATH=/home/vf/Documents/ws_yolov5/install/bboxes_ex_msgs/lib:/home/vf/Documents/ws_yolov5/install/v4l2_camera/lib:/home/vf/Documents/ws_yolov5/install/usb_cam/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/vf/Documents/ws_yolov5/build/yolov5_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vf/Documents/ws_yolov5/install/yolov5_ros/lib/python3.8/site-packages:/home/vf/Documents/ws_yolov5/install/bboxes_ex_msgs/lib/python3.8/site-packages:/home/vf/Documents/ws_yolov5/build/yolov5_ros:/home/vf/Documents/ws_yolov5/install/yolov5_ros/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vf/Documents/ws_yolov5/build/yolov5_ros/build --no-deps symlink_data
+[0.982s] /home/vf/.local/lib/python3.8/site-packages/setuptools/_distutils/dist.py:261: UserWarning: Unknown distribution option: 'tests_require'
+[0.982s]   warnings.warn(msg)
+[1.173s] running develop
+[1.405s] running egg_info
+[1.429s] creating yolov5_ros.egg-info
+[1.429s] writing yolov5_ros.egg-info/PKG-INFO
+[1.429s] writing dependency_links to yolov5_ros.egg-info/dependency_links.txt
+[1.430s] writing entry points to yolov5_ros.egg-info/entry_points.txt
+[1.430s] writing requirements to yolov5_ros.egg-info/requires.txt
+[1.430s] writing top-level names to yolov5_ros.egg-info/top_level.txt
+[1.431s] writing manifest file 'yolov5_ros.egg-info/SOURCES.txt'
+[1.483s] reading manifest file 'yolov5_ros.egg-info/SOURCES.txt'
+[1.485s] writing manifest file 'yolov5_ros.egg-info/SOURCES.txt'
+[1.574s] running build_ext
+[1.574s] Creating /home/vf/Documents/ws_yolov5/install/yolov5_ros/lib/python3.8/site-packages/yolov5-ros.egg-link (link to .)
+[1.575s] Installing yolov5_node script to /home/vf/Documents/ws_yolov5/install/yolov5_ros/lib/yolov5_ros
+[1.575s] Installing yolov5_ros script to /home/vf/Documents/ws_yolov5/install/yolov5_ros/lib/yolov5_ros
+[1.575s] 
+[1.575s] Installed /home/vf/Documents/ws_yolov5/build/yolov5_ros
+[1.575s] running symlink_data
+[1.576s] creating /home/vf/Documents/ws_yolov5/install/yolov5_ros/share/ament_index/resource_index/packages
+[1.576s] symbolically linking /home/vf/Documents/ws_yolov5/build/yolov5_ros/resource/yolov5_ros -> /home/vf/Documents/ws_yolov5/install/yolov5_ros/share/ament_index/resource_index/packages
+[1.576s] symbolically linking /home/vf/Documents/ws_yolov5/build/yolov5_ros/package.xml -> /home/vf/Documents/ws_yolov5/install/yolov5_ros/share/yolov5_ros
+[1.576s] symbolically linking /home/vf/Documents/ws_yolov5/build/yolov5_ros/launch/yolov5s_simple.launch.py -> /home/vf/Documents/ws_yolov5/install/yolov5_ros/share/yolov5_ros
+[1.634s] Invoked command in '/home/vf/Documents/ws_yolov5/build/yolov5_ros' returned '0': CMAKE_PREFIX_PATH=/home/vf/Documents/ws_yolov5/install/bboxes_ex_msgs:/home/vf/Documents/ws_yolov5/install/v4l2_camera:/home/vf/Documents/ws_yolov5/install/usb_cam LD_LIBRARY_PATH=/home/vf/Documents/ws_yolov5/install/bboxes_ex_msgs/lib:/home/vf/Documents/ws_yolov5/install/v4l2_camera/lib:/home/vf/Documents/ws_yolov5/install/usb_cam/lib:/usr/lib/x86_64-linux-gnu/gazebo-11/plugins:/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib:/usr/share/gazebo/../../lib/x86_64-linux-gnu/gazebo-11/plugins PYTHONPATH=/home/vf/Documents/ws_yolov5/build/yolov5_ros/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/vf/Documents/ws_yolov5/install/yolov5_ros/lib/python3.8/site-packages:/home/vf/Documents/ws_yolov5/install/bboxes_ex_msgs/lib/python3.8/site-packages:/home/vf/Documents/ws_yolov5/build/yolov5_ros:/home/vf/Documents/ws_yolov5/install/yolov5_ros/lib/python3.8/site-packages:/opt/ros/foxy/lib/python3.8/site-packages /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/vf/Documents/ws_yolov5/build/yolov5_ros/build --no-deps symlink_data
