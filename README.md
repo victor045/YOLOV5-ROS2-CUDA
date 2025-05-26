@@ -1,5 +1,5 @@
 
-# 🧠 YOLOv5 ROS 2 Inference System
+# 🧠 YOLOv5 ROS 2 Inference System with CUDA
 
 This repository contains a complete ROS 2 (Foxy/Humble) integration of YOLOv5 for real-time object detection using camera input and GPU-accelerated inference. The node supports custom model weights, publishes bounding boxes, and visualizes results in real-time.
 
