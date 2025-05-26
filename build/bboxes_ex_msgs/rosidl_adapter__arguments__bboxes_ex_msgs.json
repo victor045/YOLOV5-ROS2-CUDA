@@ -1,7 +1,0 @@
-{
-  "package_name": "bboxes_ex_msgs",
-  "non_idl_tuples": [
-    "/home/vf/Documents/ws_yolov5/src/bbox_ex_msgs:msg/BoundingBox.msg",
-    "/home/vf/Documents/ws_yolov5/src/bbox_ex_msgs:msg/BoundingBoxes.msg"
-  ]
-}
