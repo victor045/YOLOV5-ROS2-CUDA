@@ -1,1 +1,0 @@
-/home/vf/Documents/ws_yolov5/build/v4l2_camera/ament_cmake_environment_hooks/local_setup.zsh

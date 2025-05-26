@@ -1,1 +1,0 @@
-/home/vf/Documents/ws_yolov5/build/usb_cam/ament_cmake_core/usb_camConfig-version.cmake

@@ -1,1 +1,0 @@
-/home/vf/Documents/ws_yolov5/src/usb_cam/launch/__init__.py

@@ -1,3 +1,0 @@
-[console_scripts]
-yolov5_node = yolov5_ros.yolov5_node:main
-yolov5_ros = yolov5_ros.main:ros_main
