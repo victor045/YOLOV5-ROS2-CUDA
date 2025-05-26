@@ -38,8 +38,9 @@ yolov5_ros/
 ### 1. Clone the Repo
 
 ```bash
-cd ~/ws_yolov5/src
-git clone https://github.com/YOUR_USERNAME/yolov5_ros.git YOLOv5-ROS
+mkdir ws_yolov5
+cd ~/ws_yolov5
+git clone https://github.com/victor045/YOLOV5-ROS2-CUDA
 ```
 
 ### 2. Build the Workspace
@@ -55,28 +56,31 @@ source install/setup.bash
 
 ## 🧠 Running the Main Node
 
-### Option A: Using `ros2 run` (recommended)
+### Option A: Using main file for deployment
 
-Make sure `setup.py` contains:
-
-```python
-'console_scripts': [
-    'yolov5_main = yolov5_ros.main:ros_main',
-]
-```
-
-Then run:
-
-```bash
-ros2 run yolov5_ros yolov5_main
-```
-
-### Option B: Run manually (for dev/debugging)
+To launch a yolov5 model suited for most dev boards in deployment mode.
+Run:
 
 ```bash
 source install/setup.bash
-cd src/YOLOv5-ROS/yolov5_ros
-python3 -m yolov5_ros.main
+ros2 run yolov5_ros yolov5_ros 
+```
+or 
+
+```bash
+source install/setup.bash
+ros2 launch yolov5_ros yolov5s_simple.launch.py 
+```
+
+
+### Option B: For prototyping and better performance
+
+You can execute a single yolov5 node with video streaming for prototyping.
+Run:
+
+```bash
+source install/setup.bash
+ros2 run yolov5_ros yolov5_node
 ```
 
 > Make sure to source ROS 2 and your workspace before running.
